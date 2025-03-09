@@ -30,6 +30,6 @@ The dataset consists of backpack listings with the following key features:
 ## Results
 The trained model achieves high accuracy in predicting backpack prices, demonstrating the effectiveness of **XGBoost** in handling structured data with non-linear relationships.
 
-- **Best Score**: 38.93441 (V12)
+- **Best Score**: RMSE: 38.93441 (V12)
 - **Kaggle Rank**: 1884
 
